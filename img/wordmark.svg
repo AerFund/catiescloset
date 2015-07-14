@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1213px" height="460px" viewBox="0 0 1213 460" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>wordmark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <text id="aer-2f2f2f" sketch:type="MSTextLayer" font-family="Titillium Web" font-size="500" font-weight="260" fill="#2F2F2F">
+            <tspan x="550" y="355">aer</tspan>
+        </text>
+        <text id="aer-2f2f2f-copy" sketch:type="MSTextLayer" font-family="Titillium Web" font-size="500" font-weight="260" fill="#2F2F2F">
+            <tspan x="550" y="355">aer</tspan>
+        </text>
+        <g id="Logo" sketch:type="MSLayerGroup" transform="translate(-26.000000, -216.000000)" stroke="#28AED3" stroke-width="16">
+            <path d="M256,668 C378.607214,668 478,568.607214 478,446 C478,323.392786 378.607214,224 256,224 C133.392786,224 34,323.392786 34,446 C34,568.607214 133.392786,668 256,668 Z" id="Circle" sketch:type="MSShapeGroup"></path>
+            <polygon id="Triangle" sketch:type="MSShapeGroup" points="257 285.902407 385 541.902407 129 541.902407 "></polygon>
+            <path d="M188,434 L326,434" id="Line" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
